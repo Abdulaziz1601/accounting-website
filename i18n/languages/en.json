@@ -1,0 +1,19 @@
+{
+  "@metadata": {
+    "authors": [
+      "Maxmudov Abdulaziz"
+    ],
+    "last-updated": "2022-11-23",
+    "locale": "en",
+    "other-metadata": "sample json format"
+  },
+  "appname-title": "Javascript Localization via jQuery.i18n",
+  "appname-sub-title": "A jQuery based Javascript internationalization library.",
+  "appname-introduction": "Introduction",
+  "message-hello": "WELCOME TO BLACK ROCK CONSULTING COMPANY",
+  "message-goodbye": "Good bye",
+  "message-submit": "Apply for an order",
+  "home" : "Home",
+  "properties" : "Properties",
+  "about-us" : "About us"
+}

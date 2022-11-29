@@ -1,0 +1,16 @@
+{
+  "@metadata": {
+    "authors": [
+      "Maxmudov Abdulaziz"
+    ],
+    "last-updated": "2022-11-23",
+    "locale": "uz",
+    "other-metadata": "sample json format"
+  },
+  "appname-title": "Javascript Localization via jQuery.i18n",
+  "appname-sub-title": "A jQuery based Javascript internationalization library.",
+  "appname-introduction": "Introduction",
+  "message-hello": "Salom World",
+  "message-submit": "Buyurtma uchun murojaat",
+  "message-goodbye": "Good bye"
+}
