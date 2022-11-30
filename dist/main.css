@@ -116,6 +116,7 @@ input {
   display: grid;
   -ms-grid-columns: (1fr)[3];
   grid-template-columns: repeat(3, 1fr);
+  justify-content: space-between;
   margin-top: 100px;
 }
 .features__buttons {
@@ -149,7 +150,7 @@ input {
 }
 .features__text h3 {
   padding-top: 0px;
-  font-size: 24px;
+  font-size: 22px;
   font-weight: bold;
 
 }
@@ -347,7 +348,7 @@ input {
   line-height: 28px;
 }
 .services__text h3 {
-  font-size: 24px;
+  font-size: 18px;
   font-weight: bold;
   margin-top: 0px;
   padding: 0px;
@@ -1054,6 +1055,7 @@ img {
   }
 }
 @media screen and (max-width: 550px) {
+  
   .about__banner-background {
     height: 400px;
   }

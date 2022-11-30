@@ -166,7 +166,7 @@ input {
   flex-direction: column;
   justify-content: end;
   align-items: start;
-  /* background: linear-gradient(120deg, transparent 0%, #0d6efd); */
+  background: linear-gradient(120deg, transparent 0%, #0d6efd);
   padding: 40px;
   color: #fff;
 }
