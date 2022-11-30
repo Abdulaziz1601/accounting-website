@@ -8,7 +8,7 @@ $.i18n().load( {
     });
 });
 
-function set_locale_to(locale){
+function set_locale_to(locale){  
     $.i18n().locale = locale;
     if(locale){
         $('body').i18n();
